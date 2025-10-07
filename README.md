@@ -1,8 +1,5 @@
-# HARVESTIFY 🌿
+# HARVEST PROGNOSTICATOR🌿
 #### A simple ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
-
-#### This project is featured on [Krish Naik's](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig) YouTube Channel => Check it out [here](https://www.youtube.com/watch?v=zJcSod-L-Ps)
-
 ## DISCLAIMER ⚠️
 This is a POC(Proof of concept) kind-of project. The data used here comes up with no guarantee from the creator. So, don't use it for making farming decisions. If you do so, the creator is not responsible for anything. However, this project presents the idea that how we can use ML/DL into precision farming if developed at large scale and with authentic and verified data.
 
@@ -83,10 +80,10 @@ Note that, for now it only supports following crops
 
 ## How to run locally 🛠️
 - Before the following steps make sure you have [git](https://git-scm.com/download), [Anaconda](https://www.anaconda.com/) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) installed on your system
-- Clone the complete project with `git clone https://github.com/Gladiator07/Harvestify.git` or you can just download the code and unzip it
+- Clone the complete project with `git clone https://github.com/Abdul-Kasim/Harvest-Prognosticator.git` or you can just download the code and unzip it
 - **Note:** The master branch doesn't have the updated code used for deployment, to download the updated code used for deployment you can use the following command
   ```
-  ❯ git clone -b deploy https://github.com/Gladiator07/Harvestify.git 
+  ❯ git clone -b deploy 
   ```
 - `deploy` branch has only the code required for deploying the app (rest of the code that was used for training the models, data preparation can be accessed on `master` branch)
 - It is highly recommended to clone the deploy branch for running the project locally (the further steps apply only if you have the deploy branch cloned)
@@ -133,11 +130,11 @@ This was my first big project so there are lot of things to improve upon
 - Modularized code can be written instead of writing in Jupyter Notebooks (will follow this in upcoming projects)
 
 ## Credits 💳
-This project is heavily inspired from **[this GitHub repository](https://github.com/7NNS7/Recommendation-System-for-Farming)** (especially the crop recommendation and fertilizer recommendation part). This project is an extended version of the above mentioned project. Please star the mentioned repo.
+This project is heavily inspired from **[this GitHub repository](https://github.com/7NNS7/Recommendation-System-for-Farming)** and from **[this GitHub repository](https://github.com/7NNS7/Recommendation-System-for-Farming))** (especially the crop recommendation and fertilizer recommendation part). This project is an extended version of the above mentioned project. Please star the mentioned repo.
 
 ## License 📝
 This project is licensed under [GNU (GENERAL PUBLIC LICENSE)](https://github.com/Gladiator07/Harvestify/blob/master/LICENSE).
 
 ## Contact 📞
 
-#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/atharva-ingle-564430187/)
+#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/abdulkasim-ajmalkhan)
